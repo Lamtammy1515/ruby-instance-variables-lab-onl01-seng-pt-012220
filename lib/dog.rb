@@ -5,4 +5,3 @@ class Dog
 end 
 
 lassie = Dog.new 
-"Lassie" = dog_name
